@@ -1,9 +1,10 @@
-# Sentiment-Analysis
 
 
 ## HOW TO RUN
 
 Step 1: Clone the repository
+```
+git clone https://github.com/ChanchalThakur326/Sentiment-Analysis
 ```
 
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
@@ -29,5 +30,3 @@ Step 5: The app will run on port 5000.
 localhost:5000
 ```
 ## NOTE: The issue raised is fixed, please download the .zip folder and run it.
-
-
